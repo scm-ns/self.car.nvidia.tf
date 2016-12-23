@@ -1,0 +1,9 @@
+*.sw*
+*.gch
+*.out
+*.exe
+*.pyc
+*.zip
+*.o
+digitdata/*
+facedata/*
