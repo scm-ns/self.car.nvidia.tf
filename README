@@ -1,0 +1,5 @@
+Impelment the End to End Learning for Self Driving Car challenge. (By Nvidia)
+Currenlty just using tensorflow. 
+
+The model will most probably be trained on game car driving video. 
+
