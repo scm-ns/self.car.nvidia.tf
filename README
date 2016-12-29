@@ -2,4 +2,9 @@ Impelment the End to End Learning for Self Driving Car challenge. (By Nvidia)
 Currenlty just using tensorflow. 
 
 The model will most probably be trained on game car driving video. 
+Or it could be used for controlling the tachikoma.
+	
+	Objective : Dec 26th : 
+		> Train the network on game data and make predictions for the angle. 
+		> After it, if I can get tachikoma working, then run the network there to guide motion. 
 
