@@ -1,4 +1,4 @@
-Impelment the End to End Learning for Self Driving Car challenge. (By Nvidia)
+Implement the End to End Learning for Self Driving Car White Paper. (By Nvidia)
 Currenlty just using tensorflow. 
 
 The model will most probably be trained on game car driving video. 
